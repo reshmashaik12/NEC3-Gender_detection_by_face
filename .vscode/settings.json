@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "c:\\Users\\User\\Desktop\\gender-name-detection\\.venv\\Scripts\\python.exe",
+  "python.pythonPath": "c:\\Users\\User\\Desktop\\gender-name-detection\\.venv\\Scripts\\python.exe",
+  "python.analysis.interpreterPath": "c:\\Users\\User\\Desktop\\gender-name-detection\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "c:\\Users\\User\\Desktop\\gender-name-detection\\.venv\\Lib\\site-packages"
+  ]
+}
