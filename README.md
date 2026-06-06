@@ -55,3 +55,5 @@ python recognize_faces.py
 
 - If the webcam does not open, try a different camera index with `--camera 1` or `--camera 2`.
 - Make sure `data/registered_faces/` contains one folder per person for training.
+<img width="1012" height="800" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/e1062b38-090d-4ab8-be81-3cd1a1d15958" />
+
